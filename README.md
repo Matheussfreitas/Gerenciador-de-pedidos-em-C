@@ -1,5 +1,10 @@
 # Sistema de Gerenciamento de Pedidos de Restaurante
 
+
+## Autores:
+
+- Gabriel Fontineli Dantas
+- Matheus Freitas
 ## Descrição
 
 Este projeto é um sistema simples de gerenciamento de pedidos para um restaurante, implementado na linguagem C. O sistema permite que os pedidos sejam armazenados em uma lista ligada e processados em ordem de chegada utilizando uma fila. As principais funcionalidades incluem adicionar, remover e processar pedidos, além de listar pedidos pendentes e em processamento.
